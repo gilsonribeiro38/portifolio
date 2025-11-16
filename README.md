@@ -25,7 +25,7 @@ Também desenvolvo sites, crio campanhas no Google Ads e faço integrações par
 **Web:** HTML · CSS · Java Web · APIs  
 **Servidores:** CentOS  
 **Dados:** Extração/Análise de PDF, TXT, Excel  
-**Ferramentas:** Git · VS Code · TDS ·  
+**Ferramentas:** Git · VS Code · Visual Studio  
 **Marketing:** Google Ads (AdWords) · SEO básico  
 **Plataformas:** Wix · Base44 . GoogleSites
 
