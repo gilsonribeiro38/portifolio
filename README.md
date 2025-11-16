@@ -19,15 +19,15 @@ Também desenvolvo sites, crio campanhas no Google Ads e faço integrações par
 
 ## 🧩 Habilidades Técnicas
 
-**Linguagens:** Python · Java · JavaScript  
+**Linguagens:** C# . Python · Java · JavaScript  
 **Automação:** Selenium · PyAutoGUI · RPA  
 **Banco de Dados:** PostgreSQL · SQLite  
 **Web:** HTML · CSS · Java Web · APIs  
 **Servidores:** CentOS  
 **Dados:** Extração/Análise de PDF, TXT, Excel  
-**Ferramentas:** Git · VS Code · TDS · Protheus  
+**Ferramentas:** Git · VS Code · TDS ·  
 **Marketing:** Google Ads (AdWords) · SEO básico  
-**Plataformas:** Wix · Base44
+**Plataformas:** Wix · Base44 . GoogleSites
 
 ---
 
