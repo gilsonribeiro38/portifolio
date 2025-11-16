@@ -10,7 +10,7 @@
 ## 👋 Sobre Mim
 
 Sou desenvolvedor e analista de automações com experiência sólida em criação de sistemas, integrações, rotinas automatizadas e suporte técnico.  
-Atuo com **Python, Selenium, Java, SQL, automação de processos e desenvolvimento Web**.
+Atuo com **C#, Python, Selenium, Java, SQL, automação de processos e desenvolvimento Web**.
 
 Tenho perfil analítico, foco em eficiência e gosto por resolver problemas reais através de tecnologia.  
 Também desenvolvo sites, crio campanhas no Google Ads e faço integrações para pequenos negócios, entregando resultados completos.
