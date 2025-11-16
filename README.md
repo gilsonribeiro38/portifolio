@@ -76,7 +76,7 @@ Também desenvolvo sites, crio campanhas no Google Ads e faço integrações par
 
 ### 📁 Links úteis
 - Portfólio online: **https://github.com/gilsonribeiro38/portifolio.git**
-- LinkedIn: **linkedin.com/in/gilsonribeiro**
+- LinkedIn: **www.linkedin.com/in/gilsonribeiro**
 
 ---
 
