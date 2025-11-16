@@ -1,5 +1,3 @@
-![Cover](./assets/cover.jpg)
-
 # Gilson Gonçalves Ribeiro – Portfólio
 
 [![Website](https://img.shields.io/badge/Website-Gilson%20Ribeiro-blue)](#) 
