@@ -1,49 +1,3 @@
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gilson Gonçalves Ribeiro – Portfólio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 40px;
-            max-width: 900px;
-        }
-        h1, h2, h3 {
-            margin-top: 30px;
-        }
-        .emoji-title {
-            font-size: 24px;
-            margin-top: 40px;
-        }
-    </style>
-</head>
-<body>
-
-    <!DOCTYPE html>
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 40px;
-            max-width: 900px;
-        }
-        h1, h2, h3 {
-            margin-top: 30px;
-        }
-        .emoji-title {
-            font-size: 24px;
-            margin-top: 40px;
-        }
-    </style>
-</head>
-<body>
 <h1>Gilson Gonçalves Ribeiro – Portfolio</h1>
 
 <h2 class="emoji-title">👋 About Me</h2>
@@ -129,7 +83,4 @@ Spanish – Intermediate</p>
 <p>📍 Sorocaba – SP, Brazil<br>
 📱 +55 (15) 99724-0796 | +55 (15) 99835-0945<br>
 📧 gilson.ribeiro38@gmail.com</p>
-
-</body>
-</html>
 
